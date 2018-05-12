@@ -1,0 +1,31 @@
+_repo: Ann-Arbor-Tales_41816
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41816-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harriman, Karl Edwin
+    birthdate: 1875
+    deathdate: 1935
+    gutenberg_agent_id: '41382'
+    url: http://www.gutenberg.org/2009/agents/41382
+description: ''
+gutenberg_issued: '2013-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41816'
+  lccn: 02028292
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ann Arbor (Mich.) -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: 'The making of a man -- The kidnapping -- The champions -- The case
+  of Catherwood -- The door: a nocturne -- A modern Mercury -- The day of the game
+  -- The old professor.'
+title: Ann Arbor Tales
+url: http://www.gutenberg.org/ebooks/41816
